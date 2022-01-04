@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](https://metrics.lecoq.io/CancerHenry?template=classic&config.timezone=Asia%2FShanghai)
+
 <!--
 **CancerHenry/CancerHenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
