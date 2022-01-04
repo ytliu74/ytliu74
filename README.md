@@ -1,3 +1,5 @@
+[![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
+***
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cancerhenry&hide=prs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
