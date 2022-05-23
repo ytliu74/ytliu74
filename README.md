@@ -4,8 +4,8 @@
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cancerhenry)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaotian-liu&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaotian-liu&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 
 <!-- ![Metrics](https://metrics.lecoq.io/CancerHenry?template=classic&base.metadata=0&config.timezone=Asia%2FShanghai) -->
