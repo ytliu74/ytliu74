@@ -1,26 +1,22 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaotian-liu&hide=issues&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+I'm Yaotian Liu, an undergraduate student major in Microelectronics Science and Engineering in Shanghai Jiao Tong University.
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cancerhenry)](https://github.com/anuraghazra/github-readme-stats) -->
+- 🔭 I’m currently working on IC design, ML and quantitative trading.
+- 🌱 I’m currently learning advanced IC design.
+- 📫 How to reach me: yaotian_liu@qq.com
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaotian-liu&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
-
-<!-- ![Metrics](https://metrics.lecoq.io/CancerHenry?template=classic&base.metadata=0&config.timezone=Asia%2FShanghai) -->
-
-<!--
-**CancerHenry/CancerHenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+<!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaotian-liu&hide=issues&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+
+![Metrics](https://metrics.lecoq.io/yaotian-liu?template=classic&base.metadata=0&config.timezone=Asia%2FShanghai)
+
+
