@@ -3,7 +3,7 @@
 I'm Yaotian Liu, an undergraduate student major in Microelectronics Science and Engineering in Shanghai Jiao Tong University.
 
 - 🔭 I’m currently working on IC design, ML and quantitative trading.
-- 🌱 I’m currently learning advanced IC design.
+- 🌱 I’m currently learning advanced digital IC design.
 - 📫 How to reach me: yaotian_liu@qq.com
 
 <!-- - 👯 I’m looking to collaborate on ...
