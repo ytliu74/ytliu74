@@ -10,10 +10,11 @@ I'm Yaotian Liu, an undergraduate student major in Microelectronics Science and 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+- ⚡ Fun fact: .ok
+
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaotian-liu&hide=issues&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
- 
+
 <!-- ![Metrics](https://metrics.lecoq.io/yaotian-liu?template=classic&base.metadata=0&config.timezone=Asia%2FShanghai) -->
