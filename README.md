@@ -1,9 +1,23 @@
+## Hi there, I'm Yaotian Liu 👋
+
+🎓I'm an undergraduate student majoring in Microelectronics Science and Engineering at Shanghai Jiao Tong University. 
+
+- 🔭 I’m currently working on EDA and ML.
+- 🛠️ I'm learning Typst and JS.
+
+
+### Contact
+
+- 📫 How to reach me: yaotian_liu@gmx.com
+
+Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project!
+
+<!-- 
 ### Hi there 👋
 
 I'm Yaotian Liu, an undergraduate student major in Microelectronics Science and Engineering in Shanghai Jiao Tong University.
 
-- 🔭 I’m currently working on EDA and ML.
-- 📫 How to reach me: yaotian_liu@qq.com
+- 🔭 I’m currently working on EDA and ML. -->
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
