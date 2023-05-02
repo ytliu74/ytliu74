@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yaotian Liu
 ===================================================================================================================================
 
-I'm an undergraduate student at Shanghai Jiao Tong University, expected to study at ASU for my PhD in Computer Engineering.
+I am currently an undergraduate student at Shanghai Jiao Tong University and I plan to pursue a PhD in Computer Engineering at ASU.
 
 * 🌍  I'm based in Shanghai, China
 * ✉️  You can contact me at [yaotian\_liu@gmx.com](mailto:yaotian_liu@gmx.com)
