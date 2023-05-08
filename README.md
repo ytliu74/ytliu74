@@ -26,15 +26,15 @@ src="https://img.shields.io/github/followers/Yaotian-Liu?logo=github&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Yaotian-Liu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/ytliu74" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Yaotian-Liu"><img src="https://github-readme-stats.vercel.app/api?username=Yaotian-Liu&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=000000&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="Yaotian-Liu's GitHub stats" /></a>
+<a href="http://www.github.com/ytliu74"><img src="https://github-readme-stats.vercel.app/api?username=ytliu74&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=000000&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="Yaotian-Liu's GitHub stats" /></a>
 
-<a href="http://www.github.com/Yaotian-Liu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaotian-Liu&stroke=000000&background=ffffff&ring=14b8a6&fire=14b8a6&currStreakNum=000000&currStreakLabel=14b8a6&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/ytliu74"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ytliu74&stroke=000000&background=ffffff&ring=14b8a6&fire=14b8a6&currStreakNum=000000&currStreakLabel=14b8a6&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <img src="github-contribution-grid-snake.svg"/>
 
