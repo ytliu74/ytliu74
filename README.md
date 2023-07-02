@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am currently an undergraduate student at Shanghai Jiao Tong University and I plan to pursue a PhD in Computer Engineering at ASU.
 
-* 🌍  I'm based in Shanghai, China
+* 🌍  I'm based in Chengdu, Sichuan, China.
 * ✉️  You can contact me at [yaotian\_liu@gmx.com](mailto:yaotian_liu@gmx.com)
 * 🧠  I'm learning MANY THINGS, including new languages, new frameworks and new tools.
 
