@@ -1,8 +1,7 @@
 Hi! I am Yaotian Liu
 ===================================================================================================================================
 
-> What we have before us are some breathtaking opportunities disguised as insoluble problems.
->
+> What we have before us are some breathtaking opportunities disguised as insoluble problems. \
 > —John Gardner, 1965
 
 - I am presently a first-year PhD student in Computer Engineering at ASU.
