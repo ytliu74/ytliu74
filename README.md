@@ -1,5 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yaotian Liu
+Hi! I am Yaotian Liu
 ===================================================================================================================================
+
+> What we have before us are some breathtaking opportunities disguised as insoluble problems.
+>
+> —John Gardner, 1965
 
 - I am presently a first-year PhD student in Computer Engineering at ASU.
 - I completed my undergraduate studies in Microelectronics at Shanghai Jiao Tong University.
