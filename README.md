@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/ytliu74?logo=github&style=for-the-b
 <!-- 
 <a href="http://www.github.com/ytliu74"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ytliu74&stroke=000000&background=ffffff&ring=14b8a6&fire=14b8a6&currStreakNum=000000&currStreakLabel=14b8a6&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a> -->
 
-<img src="github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/ytliu74/ytliu74/output/github-contribution-grid-snake.svg"/>
 
 
 
