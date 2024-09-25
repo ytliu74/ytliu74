@@ -4,7 +4,7 @@ Hi! I am Yaotian Liu
 > What we have before us are some breathtaking opportunities disguised as insoluble problems. \
 > —John Gardner, 1965
 
-- I am presently a first-year PhD student in Computer Engineering at ASU.
+- I am presently a second-year PhD student in Computer Engineering at ASU.
 - I completed my undergraduate studies in Microelectronics at Shanghai Jiao Tong University.
 
 * 🌍  I'm based in Tempe, AZ.
