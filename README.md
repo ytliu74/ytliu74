@@ -10,7 +10,7 @@ Hi! I am Yaotian Liu
 * 🌍  I'm based in Tempe, AZ.
 * ✉️  You can contact me at [yaotian\_liu@gmx.com](mailto:yaotian_liu@gmx.com)
 * 🧠  I'm learning MANY THINGS, including new languages, new frameworks and new tools.
-* 📁  Here's [my CV](https://github.com/ytliu74/ytliu74/blob/main/CV-long.pdf), written in Typst.
+* 📁  Here's [my CV](https://www.yaotian-liu.com/assets/pdf/CV-long.pdf), written in Typst.
 
 <a href="https://www.github.com/ytliu74" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ytliu74?logo=github&style=for-the-badge&color=14b8a6&labelColor=ffffff" /></a>
