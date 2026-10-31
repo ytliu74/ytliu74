@@ -43,8 +43,7 @@ src="https://img.shields.io/github/followers/ytliu74?logo=github&style=for-the-b
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/ytliu74/github-stats">
-  <img src="https://raw.githubusercontent.com/ytliu74/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Yaotian Liu's GitHub statistics" />
-  <img src="https://raw.githubusercontent.com/ytliu74/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="Yaotian Liu's GitHub statistics" />
+  <img src="https://raw.githubusercontent.com/ytliu74/github-stats/master/generated/overview.svg" alt="Yaotian Liu's GitHub statistics" />
 </a>
 
 <!-- 
